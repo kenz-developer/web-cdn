@@ -2,4 +2,16 @@
 
 *CARA INSTALL SCRIPT MENGGUNAKAN TERMUX :*
 ```sh
-git clone
+git clone https://github.com/kenz-developer/web-cdn.git
+```
+
+```sh
+cd web-cdn
+npm install
+npm start
+```
+
+**MASUK KE WEB :**
+```
+http://localHost:3000
+```

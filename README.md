@@ -13,5 +13,5 @@ npm start
 
 **MASUK KE WEB :**
 ```
-http://localHost:3000
+http://localhost:3000
 ```
